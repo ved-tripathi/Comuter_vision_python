@@ -20,7 +20,7 @@ while True:
 
     #Display the image with the faces spotted
     cv.imshow('vid', gray_frame)
-    print('program chal raha hai')
+ 
     #Don't autoclose
     cv.waitKey(1)
 
